@@ -1,0 +1,58 @@
+# Oque é HTML?
+
+HTML é a linguagem da web, é o esqueleto de uma página, é a sua estrutura. HTML é uma linguagem de marcação de texto feita para indicar para o navegador qual o tipo de conteúdo que está sendo colocado em uma página. É a base para exibir algum conteúdo na web.
+
+É com o HTML que falamos para o navegador que a página que estamos construindo tem um título, um parágrafo, uma imagem, um link para outra página, uma lista, etc...
+
+# Oque é CSS?
+Se HTML é a estrutura de uma página web, o CSS é a tinta na parede, é a moldura do quadro pendurado, é o tamanho do letreiro. CSS é uma linguagem criada para estilizar coisas em uma página web, seja tamanho de fontes, cores de caixas, efeitos visuais, etc…
+
+# Oque é JavaScript?
+JavaScript é a linguagem criada para trazer interação em páginas web. Quer clicar em um botão e mudar a cor de algum componente? JavaScript! Quer mostrar uma mensagem na tela do navegador da pessoa usando sua aplicação? JavaScript! Quer preencher uma página com informações dinâmicas de algum serviço na web? JavaScript! Podemos dizer então que JavaScript é o “cérebro” de uma página web.
+
+---
+
+A base de uma página web é HTML. Sem HTML você não tem o que estilizar com CSS nem como criar interações. Então o primeiro passo é entender o que é HTML e como se começa uma página utilizando HTML.
+
+Nem todas as páginas web precisam de interações mais avançadas, mas todas as páginas precisam de algum tipo de estilização. Com esse pensamento em mente, o segundo passo é aprender estilização de páginas com CSS.
+
+O terceiro passo é aprender a deixar a página mais dinâmica para quem for usar. Micro interações, carregamento dinâmico de informações, buscas e até mesmo mudar estilizações usando JavaScript.
+
+Deste modo, o melhor jeito de estudar front-end é seguindo a regra HTML > CSS > JavaScript.
+
+---
+
+# HTML
+
+O mais importante na hora de escrever HTML é escrever um HTML semântico. As tags existem exatamente para descrever o conteúdo que é apresentado na página. Também aprenda atributos de acessibilidade para deixar a página mais inclusiva. Lembre-se de que uma página com um HTML semântico e inclusivo possui um ranking maior nos motores de busca! Aprenda técnicas de SEO e acessibilidade.
+
+# CSS
+### Tecnologias/propriedades:
+Essas tecnologias são bem interessantes para quem quer desenvolver páginas sem utilizar frameworks CSS:
+- Transition
+- Animation
+- Transform
+- Perspective
+- CSS Grid
+- Flexbox
+- Object-fit
+
+### Tecnologias/propriedades:
+- SASS (pré processador)
+- PostCSS (pós processador)
+
+Pré/Pós processadores existem para facilitar a escrita de CSS. Você acaba escrevendo código CSS de uma maneira diferente e na hora de enviar para um servidor, tudo é transformado em CSS comum.
+
+### Frameworks
+- [Bootstrap](https://www.alura.com.br/artigos/bootstrap)
+- Materialize CSS
+- Tailwind CSS
+
+### Padrões de CSS:
+- BEM
+- Atomic CSS
+- Cube CSS
+- SMACSS
+
+
+<iframe width="444" height="204" src="https://www.youtube.com/embed/ZY3-MFxVdEw" title="O que faz uma desenvolvedora front-end? #HipstersPontoTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
