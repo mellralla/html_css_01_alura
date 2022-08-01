@@ -20,6 +20,14 @@ O terceiro passo é aprender a deixar a página mais dinâmica para quem for usa
 
 Deste modo, o melhor jeito de estudar front-end é seguindo a regra HTML > CSS > JavaScript.
 
+**HTML**: linguagem de marcação utilizada para estruturar os elementos da página, como parágrafos, links, títulos, tabelas, imagens e até vídeos.
+
+**CSS**: linguagem de estilos utilizada para definir cores, fontes, tamanhos, posicionamento e qualquer outro valor estético para os elementos da página.
+
+**Javascript**: linguagem de programação utilizada para deixar a página com mais movimento, podendo atualizar elementos dinamicamente e lidar melhor com dados enviados e recebidos na página.
+
+<img align="center" alt="Python" height="300" width="400" src="https://media.discordapp.net/attachments/994764336125984778/1003701916951400458/unknown.png?width=558&height=446">
+
 ---
 
 # HTML
@@ -53,6 +61,3 @@ Pré/Pós processadores existem para facilitar a escrita de CSS. Você acaba esc
 - Atomic CSS
 - Cube CSS
 - SMACSS
-
-
-<iframe width="444" height="204" src="https://www.youtube.com/embed/ZY3-MFxVdEw" title="O que faz uma desenvolvedora front-end? #HipstersPontoTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
